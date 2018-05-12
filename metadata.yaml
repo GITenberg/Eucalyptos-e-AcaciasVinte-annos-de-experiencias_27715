@@ -1,0 +1,36 @@
+_repo: Eucalyptos-e-AcaciasVinte-annos-de-experiencias_27715
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lima, Jaime de Magalhães
+    aliases:
+    - Magalhães Lima, Jaime de
+    - Lima, Jayme de Magalhães
+    - De Magalhães Lima, Jaime
+    - Lima, Jaime de Magalhaes
+    birthdate: 1859
+    deathdate: 1936
+    gutenberg_agent_id: '9720'
+    url: http://www.gutenberg.org/2009/agents/9720
+    wikipedia: http://pt.wikipedia.org/wiki/Jaime_de_magalh%C3%A3es_lima
+description: ''
+gutenberg_bookshelf: PT Ciência e Técnica
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27715'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SD'
+- !lcsh 'Forests and forestry'
+- !lcsh 'Acacia'
+- !lcsh 'Trees'
+- !lcsh 'Eucalyptus'
+title: 'Eucalyptos e Acacias: Vinte annos de experiencias'
+url: http://www.gutenberg.org/ebooks/27715
